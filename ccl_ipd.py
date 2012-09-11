@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Copyright (c) 2011, CCL Forensics
 All rights reserved.
